@@ -1,4 +1,4 @@
-# dataMining_testMininng
+# Text Mininng
 
 The dataset SmsCollection.csv, contains 5574 text messages from the
 UK labeled either as spam or ham. Ham signifying it is a bonafide text message, spam meaning it is an unwanted message.
